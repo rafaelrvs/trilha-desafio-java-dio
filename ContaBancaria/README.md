@@ -25,7 +25,7 @@ Revise sobre regras de declaração de variáveis
 >* Usuário: 1021 (depois ENTER para o próximo campo)
 >* Revise sobre concatenação e classe String com método concat
 
-> [!## Depois de todas as informações terem sido inseridas, o sistema deverá exibir a seguinte mensagem:]
+> ## Depois de todas as informações terem sido inseridas, o sistema deverá exibir a seguinte mensagem:
 
 >"Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência >é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para >saque".
 
