@@ -13,9 +13,13 @@ Revise sobre regras de declaração de variáveis
 
  ##   Atributo	Tipo	Exemplo
       |Numero |	Inteiro	| 1021 |
+      |-------|---------|------|
       |Agencia|	Texto	| 067-8 |
+      |-------|-------|--------|
       |Nome Cliente|Texto	| MARIO ANDRADE |
+      |-------|-------|--------|
       | Saldo | Decimal | 237.48 |
+      |-------|-------|--------|
 
 >[!NOTE]
 >* Revise sobre terminal, main args e a classe Scanner
